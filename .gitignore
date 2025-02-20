@@ -1,0 +1,14 @@
+# Ignore AI training datasets
+AI-Generated-Anime-Art/datasets/
+*.jpg
+*.png
+*.jpeg
+*.webp
+
+# Ignore virtual environments
+venv/
+ai-env/
+__pycache__/
+
+# Ignore system files
+.DS_Store
